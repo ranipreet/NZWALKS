@@ -1,0 +1,5 @@
+source https://api.nuget.org/v3/index.json
+
+redirects: on
+framework: net5.0, netstandard2.0, netstandard2.1,net6.0
+nuget Microsoft.EntityFrameworkCore.SqlServer 6.0.0-preview.4.21253.1 preview
